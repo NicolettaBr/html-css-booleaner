@@ -18,3 +18,14 @@
   background-image: url(../img/pattern.png);
   background-size: 300px;
 }
+/* FINE HEADER */
+
+/* MAIN */
+
+.scritto {
+  color: gray;
+}
+
+.autore {
+  color: lightblue;
+}
