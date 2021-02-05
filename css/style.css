@@ -41,3 +41,17 @@
 .lista {
   margin: 20px;
 }
+
+.tabella {
+  text-align: left;
+  background-color: blue;
+  color: white;
+}
+
+.text {
+  width: 50%;
+}
+
+.riga {
+  background-color: lightblue;
+}
