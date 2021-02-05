@@ -29,3 +29,15 @@
 .autore {
   color: lightblue;
 }
+
+.paragrafo {
+  margin-top: 20px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.lista {
+  margin: 20px;
+}
