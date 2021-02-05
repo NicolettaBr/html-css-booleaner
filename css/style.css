@@ -1,0 +1,20 @@
+/* RESET */
+* {
+  margin: 0;
+}
+/* HEADER */
+.logo {
+  width: 200px;
+  margin-top: 25px;
+}
+
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.sfondo {
+  background-color: lightblue;
+  background-image: url(../img/pattern.png);
+  background-size: 300px;
+}
